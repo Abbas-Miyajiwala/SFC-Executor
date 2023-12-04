@@ -7,7 +7,7 @@ baseFont = 'Roboto Slab'
 # Create Root window
 root = ctk.CTk()
 root.geometry('750x500')
-root.title('SFC Executor v1.0 ~AM')
+root.title('SFC Executor v1.0.1 ~AM')
 
 # Command functions:
 def runSfc():
